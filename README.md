@@ -1,0 +1,1 @@
+Programa de termómetro con Tkinter
